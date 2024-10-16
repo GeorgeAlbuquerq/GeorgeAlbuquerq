@@ -17,4 +17,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAlbuquerq&layout=compact&langs_count=7&theme=transparent"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAlbuquerq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
--->
+
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
