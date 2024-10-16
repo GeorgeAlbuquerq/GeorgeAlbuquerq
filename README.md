@@ -14,9 +14,9 @@ Neste Git você vai encontrar alguns projetos em:
 # Estatísticas: 
 <div>
 <a href="https://github.com/GeorgeAlbuquerq">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAlbuquerq&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAlbuquerq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAlbuquerq&layout=compact&langs_count=7&theme=transparent"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAlbuquerq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 -->
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/github-contribution-grid-snake.svg)
