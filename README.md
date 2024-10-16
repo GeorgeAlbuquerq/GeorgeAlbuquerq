@@ -2,9 +2,8 @@
 ## Bem vindo ao meu GitHub 👋
 
 - 🔭 Trabalho atualmente na Empresa Algar Tech como Analista de Suporte de TI ...
-  
-
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="40" height="40" />
+-
+- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
           
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
