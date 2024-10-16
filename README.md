@@ -19,4 +19,4 @@ Neste Git você vai encontrar alguns projetos em:
 </div>
 -->
 
-![Snake animation](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/github-contribution-grid-snake.svg)
