@@ -1,9 +1,5 @@
 # Olá, me chamo George
 
-## Snake Animation
-
-![Snake animation](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/dist/github-snake.svg)
-
 
 ## Bem vindo ao meu GitHub 👋
 
@@ -23,6 +19,10 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAlbuquerq&layout=compact&langs_count=7&theme=transparent"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAlbuquerq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
+
+Meu repositório:
+
+![snake gif](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
