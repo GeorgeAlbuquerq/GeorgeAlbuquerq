@@ -1,4 +1,10 @@
 # Olá, me chamo George
+
+## Snake Animation
+
+![Snake animation](https://github.com/GeorgeAlbuquerq/SEU_REPOSITORIO/blob/output/dist/github-snake.svg)
+
+
 ## Bem vindo ao meu GitHub 👋
 
 ## Neste Git você vai encontrar alguns projetos em:
