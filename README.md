@@ -20,6 +20,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAlbuquerq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-* Meu repositório:
-
-![snake gif](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/github-contribution-grid-snake.svg)
