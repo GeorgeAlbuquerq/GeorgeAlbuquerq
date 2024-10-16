@@ -2,7 +2,7 @@
 
 ## Snake Animation
 
-![Snake animation](https://github.com/GeorgeAlbuquerq/SEU_REPOSITORIO/blob/output/dist/github-snake.svg)
+![Snake animation](https://github.com/GeorgeAlbuquerq/GeorgeAlbuquerq/blob/output/dist/github-snake.svg)
 
 
 ## Bem vindo ao meu GitHub 👋
