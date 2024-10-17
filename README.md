@@ -8,7 +8,11 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
 
 ## 📫 Como me contactar:
-- E-mail: gr.albuquerq@gmail.com
+-
+<div>
+  <a href="mailto:gr.albuquerq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+-  E-mail: gr.albuquerq@gmail.com
 - Tel (61) 984479799 - whatsapp.
 - https://www.linkedin.com/in/george-albuquerque/
   
