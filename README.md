@@ -6,14 +6,14 @@
 ## Neste Git você vai encontrar alguns projetos em:
 <div>
    <a href="https://github.com/GeorgeAlbuquerq/api-front-angular"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50"/></a> 
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/> 
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/> 
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/> 
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50"/> 
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50"/>
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
+   <a href="https://github.com/GeorgeAlbuquerq/api-back-java"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/></a> 
+   <a href="https://github.com/GeorgeAlbuquerq/AplyC-"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/> 
+   <a href="https://github.com/GeorgeAlbuquerq/juststore"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/> 
+   <a href="https://github.com/GeorgeAlbuquerq/Projetinho-do-zero-para-melhorar-sempre"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
+   <a href="https://github.com/GeorgeAlbuquerq/Tela-Dart-com-Flutter"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50"/> 
+   <a href="https://github.com/GeorgeAlbuquerq/Tela-Dart-com-Flutter"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50"/>
+   <a href="https://github.com/GeorgeAlbuquerq/Projeto-PHP-linkado-com-DB-Sql"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>
+   <a href="https://github.com/GeorgeAlbuquerq/File-em-C"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
 
 </div>
 
