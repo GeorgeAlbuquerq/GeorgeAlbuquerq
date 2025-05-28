@@ -1,4 +1,4 @@
-# Olá, me chamo George
+# Olá, me chamo George Albuquerque
 
 
 ## Bem vindo ao meu GitHub 👋
